@@ -10,9 +10,9 @@ This branch has everything needed to 3d print and assemble the robot and control
 ## 3D Printing & laser cutting
 This was printed using an Ender3 v2.
 The model has been split up to fit in the 220mm * 220mm * 250mm build volume of the Ender3 v2
-The orginal fuecoco model was found [here](#)
+The orginal fuecoco model was found [here](https://cults3d.com/en/3d-model/game/fuecoco-pokemon-jscatalan)
 
-All the STL files can be found [here](#)
+All the STL files can be found [here](https://www.thingiverse.com/thing:6733507)
 
 The top of the conrollet was laser cut from 3mm clear acrylic so the LEDs could shine through
 This could be 3d printed if a laser cutter is not accessible
